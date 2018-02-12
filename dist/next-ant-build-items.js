@@ -7,7 +7,7 @@
     return inArray.map(function (item, index) {
       const value = inUseSelf ? item : index;
       return {
-        text: item,
+        label: item,
         value: value
       };
     });
