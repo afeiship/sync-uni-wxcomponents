@@ -4,18 +4,22 @@
 ## installation
 ```shell
 # public
-npm i -g @jswork/sync-uni-wxcomponents
+yarn add --dev @jswork/sync-uni-wxcomponents
 ```
 
 ## configrc
 ```json
 {
   "app": {
-    "page.json": "src/page.json",
+    "page": "src/pages.json",
     "wxcomponents": "src/wxcomponents"
   },
   "packages": [
-    "@alo7/mp-components/miniprogram_dist"
+    {
+      "name": "mind-ui-weapp",
+      "dist": "miniprogram_dist",
+      "scope": "mindui"
+    }
   ]
 }
 ```
