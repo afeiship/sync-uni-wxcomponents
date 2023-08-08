@@ -1,9 +1,13 @@
 {
   "app": {
-    "page.json": "src/page.json",
+    "page": "src/pages.json",
     "wxcomponents": "src/wxcomponents"
   },
   "packages": [
-    "@alo7/mp-components/miniprogram_dist"
+    {
+      "name": "mind-ui-weapp",
+      "dist": "miniprogram_dist",
+      "scope": "mindui"
+    }
   ]
 }
