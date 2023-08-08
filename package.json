@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Sync uniapp node_modules for mp-weixin components.",
   "bin": {
-    "sync-uni-wxcomponents": "./bin/run"
+    "sync-uni-wxcomponents": "./bin/run",
+    "suwx": "./bin/run"
   },
   "scripts": {
     "release": "release-it"
