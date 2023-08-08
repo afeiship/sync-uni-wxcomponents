@@ -1,6 +1,6 @@
 {
   "name": "@jswork/sync-uni-wxcomponents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sync uniapp node_modules for mp-weixin components.",
   "bin": {
     "sync-uni-wxcomponents": "./bin/run",
@@ -30,8 +30,14 @@
     "gulp-replace": "^1.0.0"
   },
   "keywords": [
-    "boilerplate",
-    "cli"
+    "mp-weixin",
+    "sync",
+    "uni",
+    "uniapp",
+    "weixin",
+    "wx",
+    "wxcomponents",
+    "suwx"
   ],
   "repository": {
     "type": "git",
