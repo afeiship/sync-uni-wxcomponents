@@ -6,8 +6,7 @@
   "packages": [
     {
       "name": "mind-ui-weapp",
-      "dist": "miniprogram_dist",
-      "scope": "mindui"
+      "dist": "miniprogram_dist"
     }
   ]
 }
