@@ -17,8 +17,7 @@ yarn add --dev @jswork/sync-uni-wxcomponents
   "packages": [
     {
       "name": "mind-ui-weapp",
-      "dist": "miniprogram_dist",
-      "scope": "mindui"
+      "dist": "miniprogram_dist"
     }
   ]
 }
