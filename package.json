@@ -12,11 +12,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@jswork/fileutils": "^1.0.3",
     "@jswork/next": "^1.1.11",
     "@jswork/next-rw-json": "^1.0.3",
     "chalk": "^4.1.0",
     "commander": "^6.2.0",
-    "copy-dir": "^1.3.0",
     "esm": "^3.2.25",
     "find-up": "5",
     "globby": "^11.1.0",
