@@ -5,6 +5,8 @@
 ```shell
 # public
 yarn add --dev @jswork/sync-uni-wxcomponents
+# init project
+npx @jswork/suwx-init --registry=https://registry.npmjs.org
 ```
 
 ## configrc
