@@ -1,6 +1,6 @@
 {
   "name": "@jswork/sync-uni-wxcomponents",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Sync uniapp node_modules for mp-weixin components.",
   "bin": {
     "sync-uni-wxcomponents": "./bin/run",
